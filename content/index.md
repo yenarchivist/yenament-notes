@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Yenament Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 예나의 디지털 정원
+
+궁금하면 찍먹해. 귀찮으면 자동화해.
+
+## 시작하기
+
+- [[About Me]]
